@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="azcm44cloud" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\usr\\source\\repos\\Azure204\\WebJobAzCm\\WebJobAzCm\\obj\\Release\\net472\\win7-x86\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
